@@ -1,6 +1,14 @@
-# Advan-X1-Starter-Modules
+# Advan-X1
 All of these are not mine and can be found in each crators page
 
+Do NOT use Twrp (Team Win Recovery Project) for Advan X1 cause it sometime buggy and treats you like shit
+DO use OrangeFox For stability and easy installation from both Windows & Linux in release pack or Advan X1 telegram community
+
+PLEASE use KsuWebUI to manage the Zygisk next
+IF you're using Magisk, turn off the enforce DenyList cause Shamiko cant work other way
+
+
+USING THESE MODULES GIVES YOU 3 INTERGRITY CHECKS IF DONE CORRECTLY
 | Module | Link | Purpose |
 |:-------|:----:|:--------|
 | Zygisk Next | https://github.com/Dr-TSNG/ZygiskNext | Provides Zygisk support and improves compatibility with other modules. |
