@@ -11,7 +11,7 @@ Compatible with most modules
 More system-level integration
 Better stealth in some cases
 
-Do NOT use Twrp (Team Win Recovery Project) for Advan X1 cause it sometime buggy and treats you like shit
+Do NOT use Twrp (Team Win Recovery Project) for Advan X1 TWRP due to instability on some Advan X1 builds.
 DO use OrangeFox For stability and easy installation from both Windows & Linux in release pack or Advan X1 telegram community
 
 PLEASE use KsuWebUI to manage the Zygisk next
@@ -31,15 +31,6 @@ Note: Play Integrity is server-side and may change at any time.
 | Play Integrity Fork | https://github.com/osm0sis/PlayIntegrityFork | Works alongside TrickyStore to improve Play Integrity compatibility. |
 | Shamiko | https://github.com/LSPosed/LSPosed.github.io/releases/tag/shamiko-414 | Hides root-related modifications from selected apps without enforcing DenyList. |
 
-Suggested Setup Order:
--Flash OrangeFox Recovery
--Install Magisk or KernelSU
--Enable Zygisk (if Magisk)
--Install Zygisk Next
--Configure Shamiko / DenyList
--Add Play Integrity Fix (If you want to use Tricky Store you must reconfigure Play Fix)
-Optional: Tricky Store / HMA-OSS
-Reboot & test integrity
 
 🚫 Known Risks
 Module conflicts if overstacked
