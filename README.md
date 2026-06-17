@@ -6,11 +6,11 @@ All of these are not mine and can be found in each creators page
 🧩 Root Environment Options
 Choose one main root solution:
 
-- Magisk
+**Magisk**
 Requires Zygisk enabled
 Compatible with most modules
 
-— KernelSU Next
+**KernelSU Next**
 More system-level integration
 Better stealth in some cases
 
@@ -29,6 +29,7 @@ When configured correctly, this setup may pass:
 ✔ Basic Integrity
 ✔ Device Integrity
 ✔ Strong Integrity (device-dependent)
+
 Note: Play Integrity is server-side and may change at any time.
 
 | Module | Link | Purpose |
