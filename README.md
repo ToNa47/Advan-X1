@@ -1,5 +1,5 @@
 # Advan-X1
-All of these are not mine and can be found in each crators page
+All of these are not mine and can be found in each creators page
 
 Do NOT use Twrp (Team Win Recovery Project) for Advan X1 cause it sometime buggy and treats you like shit
 DO use OrangeFox For stability and easy installation from both Windows & Linux in release pack or Advan X1 telegram community
