@@ -3,14 +3,11 @@ All of these are not mine and can be found in each creators page
 
 ⚠️ This setup is based on community tools and personal testing. Compatibility may vary depending on ROM/kernel version.
 
-🧩 Root Environment Options
-Choose one main root solution:
-
-**Magisk**
+**Magisk:**
 Requires Zygisk enabled
 Compatible with most modules
 
-**KernelSU Next**
+**KernelSU Next:**
 More system-level integration
 Better stealth in some cases
 
@@ -20,15 +17,10 @@ DO use OrangeFox For stability and easy installation from both Windows & Linux i
 PLEASE use KsuWebUI to manage the Zygisk next
 
 NOTES:
--Disable Enforce DenyList if using Shamiko
--Avoid stacking multiple overlapping hiding modules
--Do NOT mix conflicting root concealment layers blindly
+Disable Enforce DenyList if using Shamiko, Avoid stacking multiple overlapping hiding modules, and Do NOT mix conflicting root concealment layers blindly
 
 
-When configured correctly, this setup may pass:
-✔ Basic Integrity
-✔ Device Integrity
-✔ Strong Integrity (device-dependent)
+When configured correctly, this setup may pass **Basic Intergrity, Device Intergrity, Strong Intergrity**
 
 Note: Play Integrity is server-side and may change at any time.
 
