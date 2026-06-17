@@ -1,5 +1,5 @@
 # Advan-X1-Starter-Modules
-All of these are not mine and i give credit to the creators for each project.
+All of these are not mine and can be found in each crators page
 
 | Module | Link | Purpose |
 |:-------|:----:|:--------|
