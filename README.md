@@ -37,7 +37,7 @@ What if you wanted to Lock the Bootloader again? its easy!
 ## Lock Bootloader
 
 1. Make sure you're on **Stock ROM**.
-   - If not, your device may end up in an **eternal bootloop (soft brick)**.
+   If not, your device may end up in an **eternal bootloop (soft brick)**.
 2. Open your terminal (Windows/Linux).
 3. Run:
    fastboot flashing lock
