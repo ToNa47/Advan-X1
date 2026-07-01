@@ -1,7 +1,7 @@
 # Advan-X1
 All of these are not mine and can be found in each creators page
 
-⚠️ This setup is based on community tools and personal testing. Compatibility may vary depending on ROM/kernel version.
+⚠️ This setup is based on community tools and personal testing. Compatible only with Stock ROM/Kernel
 
 **Magisk:**
 Requires Zygisk enabled
