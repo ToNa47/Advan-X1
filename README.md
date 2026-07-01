@@ -34,12 +34,12 @@ Note: Play Integrity is server-side and may change at any time.
 
 What if you wanted to Lock the Bootloader again? its easy!
 
-•Make sure you're in Stock ROM (If not then it'll ended up in eternal bootloops aka soft brick)
-•Open your Terminal (Windows/Linux) and Type fastboot flashing lock
-•Confirm in your phone through volume buttons and power (If needed, just read)
-•It may or may not restart automatically so if you did restart just wait
-•If you ended up in Android Recovery Reset then just Reset Factory for the old files/caches to be cleared
-•Your device's bootloader finally locked
+-Make sure you're in Stock ROM (If not then it'll ended up in eternal bootloops aka soft brick)
+-Open your Terminal (Windows/Linux) and Type fastboot flashing lock
+-Confirm in your phone through volume buttons and power (If needed, just read)
+It may or may not restart automatically so if you did restart just wait
+-If you ended up in Android Recovery Reset then just Reset Factory for the old files/caches to be cleared
+-Your device's bootloader finally locked
 
 
 🚫 Known Risks
@@ -51,3 +51,4 @@ Detection by apps using advanced root detection
 ⚠️Disclaimer
 This project is for educational and research purposes.
 Use at your own risk.
+
