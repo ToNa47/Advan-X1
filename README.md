@@ -32,6 +32,16 @@ Note: Play Integrity is server-side and may change at any time.
 | Shamiko | https://github.com/LSPosed/LSPosed.github.io/releases/tag/shamiko-414 | Hides root-related modifications from selected apps without enforcing DenyList. |
 
 
+What if you wanted to Lock the Bootloader again? its easy!
+
+•Make sure you're in Stock ROM (If not then it'll ended up in eternal bootloops aka soft brick)
+•Open your Terminal (Windows/Linux) and Type fastboot flashing lock
+•Confirm in your phone through volume buttons and power (If needed, just read)
+•It may or may not restart automatically so if you did restart just wait
+•If you ended up in Android Recovery Reset then just Reset Factory for the old files/caches to be cleared
+•Your device's bootloader finally locked
+
+
 🚫 Known Risks
 Module conflicts if overstacked
 Bootloops if improper flashing sequence
