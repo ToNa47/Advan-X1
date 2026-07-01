@@ -34,7 +34,7 @@ Note: Play Integrity is server-side and may change at any time.
 
 What if you wanted to Lock the Bootloader again? its easy!
 
-## Lock Bootloader
+## Lock Bootloader 🔒
 
 1. Make sure you're on **Stock ROM**.
    If not, your device may end up in an **eternal bootloop (soft brick)**.
